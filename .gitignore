@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# Block presentations and PDFs
+*.pptx
+*.pdf
+
+# Backups
+GITPosted/
